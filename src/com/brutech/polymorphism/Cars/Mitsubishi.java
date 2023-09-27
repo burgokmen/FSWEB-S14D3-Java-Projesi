@@ -1,4 +1,4 @@
-package com.brutech.polymorphism;
+package com.brutech.polymorphism.Cars;
 
 public class Mitsubishi extends Car{
     public Mitsubishi(int cylinders, String name) {

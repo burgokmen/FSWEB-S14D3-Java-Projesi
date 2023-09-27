@@ -1,7 +1,7 @@
-package com.brutech.polymorphism;
+package com.brutech.polymorphism.Cars;
 
-public class Holden extends Car{
-    public Holden(int cylinders, String name) {
+public class Ford extends Car {
+    public Ford(int cylinders, String name) {
         super(cylinders, name);
     }
 

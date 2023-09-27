@@ -1,4 +1,4 @@
-package com.brutech.polymorphism;
+package com.brutech.polymorphism.Cars;
 
 public class Main {
     public static void main(String[] args) {
